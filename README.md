@@ -17,6 +17,8 @@ Follow these instructions to install Conda on your system:
 
 ### `pip install -r requirements.txt`
 
+### The dataset link is https://drive.google.com/drive/folders/1sC_ART839_Q4Wq_DzSz-v1lvc9qE446g?usp=sharing
+
 **Note:** After the installation is complete, go to the heartStrokeBackend folder and follow the instructions in the README.md file.
 
 
