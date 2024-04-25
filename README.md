@@ -19,6 +19,6 @@ Follow these instructions to install Conda on your system:
 
 ### The dataset link is https://drive.google.com/drive/folders/1sC_ART839_Q4Wq_DzSz-v1lvc9qE446g?usp=sharing
 
-**Note:** After the installation is complete, go to the heartStrokeBackend folder and follow the instructions in the README.md file.
+**Note:** After the installation is complete, go to the heartStrokeBackend folder/get clone https://github.com/AngelaKasundi2001/Heart-stroke-backend.git and follow the instructions in the README.md file.
 
 
